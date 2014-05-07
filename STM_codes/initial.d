@@ -1,0 +1,16 @@
+.\initial.o: initial.c
+.\initial.o: stm32f0xx_gpio.h
+.\initial.o: stm32f0xx.h
+.\initial.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h
+.\initial.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\initial.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h
+.\initial.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h
+.\initial.o: system_stm32f0xx.h
+.\initial.o: stm32f0xx_conf.h
+.\initial.o: stm32f0xx_exti.h
+.\initial.o: stm32f0xx.h
+.\initial.o: stm32f0xx_gpio.h
+.\initial.o: stm32f0xx_syscfg.h
+.\initial.o: stm32f0xx_rcc.h
+.\initial.o: stm32f0xx_misc.h
+.\initial.o: initial.h

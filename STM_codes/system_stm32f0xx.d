@@ -1,0 +1,14 @@
+.\system_stm32f0xx.o: system_stm32f0xx.c
+.\system_stm32f0xx.o: stm32f0xx.h
+.\system_stm32f0xx.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h
+.\system_stm32f0xx.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\system_stm32f0xx.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h
+.\system_stm32f0xx.o: D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h
+.\system_stm32f0xx.o: system_stm32f0xx.h
+.\system_stm32f0xx.o: stm32f0xx_conf.h
+.\system_stm32f0xx.o: stm32f0xx_exti.h
+.\system_stm32f0xx.o: stm32f0xx.h
+.\system_stm32f0xx.o: stm32f0xx_gpio.h
+.\system_stm32f0xx.o: stm32f0xx_syscfg.h
+.\system_stm32f0xx.o: stm32f0xx_rcc.h
+.\system_stm32f0xx.o: stm32f0xx_misc.h

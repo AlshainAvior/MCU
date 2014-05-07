@@ -1,0 +1,109 @@
+Dependencies for Project 'lasvegas', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f0xx.s)(0x51C803E0)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx--list .\startup_stm32f0xx.lst --xref -o .\startup_stm32f0xx.o --depend .\startup_stm32f0xx.d)
+F (.\main.c)(0x536A94A0)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\initial.h)(0x52BC7A18)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+F (.\system_stm32f0xx.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\system_stm32f0xx.o --omf_browse .\system_stm32f0xx.crf --depend .\system_stm32f0xx.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+F (.\initial.c)(0x536A8F32)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\initial.o --omf_browse .\initial.crf --depend .\initial.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\initial.h)(0x52BC7A18)
+F (.\stm32f0xx_exti.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\stm32f0xx_exti.o --omf_browse .\stm32f0xx_exti.crf --depend .\stm32f0xx_exti.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+F (.\stm32f0xx_gpio.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\stm32f0xx_gpio.o --omf_browse .\stm32f0xx_gpio.crf --depend .\stm32f0xx_gpio.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+F (.\stm32f0xx_misc.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\stm32f0xx_misc.o --omf_browse .\stm32f0xx_misc.crf --depend .\stm32f0xx_misc.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+F (.\stm32f0xx_rcc.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\stm32f0xx_rcc.o --omf_browse .\stm32f0xx_rcc.crf --depend .\stm32f0xx_rcc.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
+F (.\stm32f0xx_syscfg.c)(0x4F6C6E38)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I D:\Keil\ARM\PACK\Keil\STM32F0xx_DFP\1.0.0\Device\Include-I D:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F0XX_MDF -DUSE_STDPERIPH_DRIVER -o .\stm32f0xx_syscfg.o --omf_browse .\stm32f0xx_syscfg.crf --depend .\stm32f0xx_syscfg.d)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_syscfg.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx.h)(0x4F6C6E38)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm0.h)(0x52C0B729)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h)(0x51BAC5E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h)(0x512C8EE2)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\system_stm32f0xx.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_conf.h)(0x52CEF0C7)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_exti.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_gpio.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_rcc.h)(0x4F6C6E38)
+I (D:\FER\OneDrive\Projekti\Projekt_JednorukiJack\simulacijska_plocica\kodovi\stm32f0xx_misc.h)(0x4F6C6E38)
